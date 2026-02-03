@@ -1,0 +1,5 @@
+{
+  "name": "MovieUltra AI Explorer",
+  "description": "A high-end cinematic portal that combines real-time TMDB trending movies with an automated AI blogging engine powered by Gemini.",
+  "requestFramePermissions": []
+}
